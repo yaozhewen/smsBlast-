@@ -43,7 +43,7 @@ AGENTS = [
 # 是否用代理IP 进行 请求, 不建议开启除非数据库存有 优质代理ip
 proxy = False
 # 手机号码
-phone = ""
+phone = "17639573623"
 # 短信接口API 请求间隔时间 备注 请求方式 请求参数 来源
 SMSApiList = [
     {
